@@ -23,21 +23,21 @@
       <img src="https://www.sencinet.com/img/logo@2x.png" alt="Sencinet" width="80px">
       <p style="font-size: 16px; color: #eaeaea;">
         <strong> Sencinet - Advanced Support</strong><br>
-        Nível - Estágio<br> Abr/2021 - Jan/2022
+        Nível - Estágio<br> Mai/2022 - Jan/2023
       </p>
     </div>
     <div style="margin: 15px 0;">
       <img src="https://logospng.org/download/csn/logo-csn-escudo-1024.png" alt="CSN" width="80px">
       <p style="font-size: 16px; color: #eaeaea;">
         <strong>Companhia SidePeople Analytics</strong><br>
-        Nível - Estágio<br> Jan/2022 - Jul/2024
+        Nível - Estágio<br> Fev/2023 - Jul/2024
       </p>
     </div>
     <div style="margin: 15px 0;">
       <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHDPtx0BOYJUQ/company-logo_200_200/company-logo_200_200/0/1688563882724/briviagroup_logo?e=1741824000&v=beta&t=iJ9binP6W46WU0rlauT1EoeSFHZGUnUHXpK7fXC-7JU" alt="Brivia" width="60px">
       <p style="font-size: 16px; color: #eaeaea;">
         <strong>Desenv. Front-End Jr.</strong><br>
-        Nível - Desenvolvedor Jr<br> Jul/2024 - Atual
+        Nível - Desenvolvedor Jr.<br> Jul/2024 - Atual
       </p>
     </div>
   </div>
