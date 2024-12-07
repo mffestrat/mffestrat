@@ -46,18 +46,22 @@
       Quer saber um pouco mais? Send me a message! 📲
     </p>
   </div>
-  <div style="box-sizing: border-box; width: 100%; text-align: center; padding: 20px 0;">
+  <div style="text-align: center; padding: 20px 0;">
     <div style="display: flex; justify-content: center; gap: 15px; padding: 10px 0;">
-        <a href="https://wa.me/5511982267209" target="_blank">
-            <img src="https://static.vecteezy.com/system/resources/thumbnails/022/794/113/small/3d-render-whatsapp-logo-icon-isolated-on-transparent-background-free-png.png" alt="WhatsApp" title="WhatsApp" width="40px">
+        <a href="https://wa.me/5511982267209" target="_blank" rel="noopener noreferrer">
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/022/794/113/small/3d-render-whatsapp-logo-icon-isolated-on-transparent-background-free-png.png" 
+                 alt="WhatsApp" title="WhatsApp" width="40" height="40">
         </a>
-        <a href="https://www.linkedin.com/in/mffestrat/" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Linkedin" title="Linkedin" width="40px">
+        <a href="https://www.linkedin.com/in/mffestrat/" target="_blank" rel="noopener noreferrer">
+            <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
+                 alt="LinkedIn" title="LinkedIn" width="40" height="40">
         </a>
-        <a href="https://www.instagram.com/mffestrat/" target="_blank">
-            <img src="https://www.designi.com.br/images/preview/10000147.jpg" alt="Instagram" title="Instagram" width="40px">
+        <a href="https://www.instagram.com/mffestrat/" target="_blank" rel="noopener noreferrer">
+            <img src="https://www.designi.com.br/images/preview/10000147.jpg" 
+                 alt="Instagram" title="Instagram" width="40" height="40">
         </a>
     </div>
 </div>
+
 
   
